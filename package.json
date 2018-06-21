@@ -1,0 +1,29 @@
+{
+    "name": "r-pack",
+    "displayName": "R Extension Pack",
+    "description": "Popular Visual Studio Code extensions for R",
+    "version": "0.0.1",
+    "publisher": "Ikuyadeu",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Ikuyadeu/r-extension-pack"
+    },
+    "bugs": {
+        "url": "https://github.com/Ikuyadeu/r-extension-pack/issues"
+    },
+    "icon": "Rlogo.png",
+    "engines": {
+        "vscode": "^1.24.0"
+    },
+    "keywords": [
+        "r"
+    ],
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [
+        "reditorsupport.r-lsp",
+        "ikuyadeu.r"
+    ]
+}
