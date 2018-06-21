@@ -2,7 +2,7 @@
     "name": "r-pack",
     "displayName": "R Extension Pack",
     "description": "Popular Visual Studio Code extensions for R",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "Ikuyadeu",
     "license": "MIT",
     "repository": {
